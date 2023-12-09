@@ -1,0 +1,34 @@
+{
+    "candles": [
+      {
+        "name": "Doji",
+        "type": "Neutral",
+        "desc": "DOJI is a name for candlesticks that form when a stock's opening price and closing price are virtually equal. This DOJI tells us that during the trading day the stock moved higher and lower and neither the buyers nor sellers were more prominent. It says the stock traded up and the sellers stepped in and traded lower and the buyers stepped in. When just looking at a DOJI it appears very uneventful, but when combined with other candles and trends, it can be very telling. When thinking in the perspective of a market trend moving higher or a downward trend moving lower, the DOJI is a very telling sign that the number of buyers and sellers has become equal. Therefore, after the market or stock has been in a trend, either up or down, and suddenly a DOJI is formed, then this tells us that since the buying and selling has equaled out – then a reversal of the current trend may be ahead. We will see and discuss the DOJI quite often as we progress.",
+        "img": "./images/Doji.png"
+      },
+      {
+        "name": "The Shooting Star",
+        "type": "Bearish",
+        "desc": "The Shooting Star is a Bearish candle that forms after an advance in the stock or index price. Try to think of it in this manner. The price has advanced for several candles, or days, and tries to continue the advance. It opens and trades higher, creating the tall wick on top of the candle, but then the sellers take over forcing the price back down to close near the opening price. This is an early indication that the advance has lost its momentum. Technically, according to the above picture, the closing price would need to be below the opening price. However, that is not always the case. Meaning, if you simply switched the open and closing prices on the above picture, it would still indicate an early warning for a reversal, maybe just not as pronounced as the close that is lower than the open. But it would still be a warning sign.",
+        "img": "./images/Shooting-Star.png"
+      },
+      {
+        "name": "The Hammer",
+        "type": "Bullish",
+        "desc": "The Hammer is normally found at the bottom and forms when a stock has been in a downtrend and finally reached a support level. The formation of the hammer occurs when a security trades significantly lower than its opening price, but rallies later in the day to close either above or very close to its opening price. This pattern forms a hammer-shaped candlestick. It is very similar to a mirror image of the Shooting Star at the top of an advance. When this Candle forms at the top of a pattern after an advance, it is called the Hanging Man. Both look very similar and can have either a positive or negative body.",
+        "img": "./images/Hammer.png"
+      },
+      {
+        "name": "The Hanging Man",
+        "type": "Bearish",
+        "desc": "The Hanging Man is a bearish candlestick pattern that forms at the end of an uptrend. It looks like the Hammer, but it forms at the end of an advance instead of a decline like the Hammer. It is created when there is a significant sell-off near the market open, but buyers are able to push this stock back up to close at or near the opening price. Generally the large sell-off is seen as an early indication that the bulls (buyers) are losing control and demand for the asset is waning.",
+        "img": "./images/Hanging-Man.png"
+      },
+      {
+        "name": "The Spinning Top",
+        "type": "Neutral",
+        "desc": "The Spinning Top The Spinning Top is a candlestick formation where the real body is small despite a wide range of price movement throughout the trading day. This candle is often regarded as neutral and used to signal indecision about the future direction of the stock’s price. Most traders look at it as simply a ho-hum day and wait to see what the next day brings. The following day or two usually confirms if a reversal in trend is happening. Confirmation the following day should indicate whether the advance will continue or a decline will ensue. In the above case, the confirmation was a negative candle the following day certainly indicating a change in trend.",
+        "img": "./images/Spinning-Top.png"
+      }
+    ]
+}
