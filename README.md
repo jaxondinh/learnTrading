@@ -1,1 +1,2 @@
-# React project made to learn trading for a friend
+# learnTrading
+A react project made to learn and practice candle stick patterns.
