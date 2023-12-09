@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/learnTrading/static/css/main.f855e6bc.css",
-    "main.js": "/learnTrading/static/js/main.30f526e8.js",
+    "main.js": "/learnTrading/static/js/main.2cd15515.js",
     "static/js/787.abd9bb8e.chunk.js": "/learnTrading/static/js/787.abd9bb8e.chunk.js",
     "index.html": "/learnTrading/index.html",
     "main.f855e6bc.css.map": "/learnTrading/static/css/main.f855e6bc.css.map",
-    "main.30f526e8.js.map": "/learnTrading/static/js/main.30f526e8.js.map",
+    "main.2cd15515.js.map": "/learnTrading/static/js/main.2cd15515.js.map",
     "787.abd9bb8e.chunk.js.map": "/learnTrading/static/js/787.abd9bb8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.30f526e8.js"
+    "static/js/main.2cd15515.js"
   ]
 }
