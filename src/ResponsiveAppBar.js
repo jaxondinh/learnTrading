@@ -26,7 +26,7 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{marginBottom: 5}}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Typography
