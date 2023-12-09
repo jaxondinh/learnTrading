@@ -37,8 +37,8 @@ const CandleCard = ({ candle }) => {
         <Typography gutterBottom variant="h5" component="div">
           {candle.name}
         </Typography>
-        <Typography variant="body2" color={typeColor(candle.type)}>
-          Type: {candle.type}
+        <Typography variant="body2" color="text.secondary">
+            Type: <span style={{ color: typeColor(candle.type) }}>{candle.type}</span>
         </Typography>
         <Typography variant="body2" color="text.secondary">
           {candle.desc}
