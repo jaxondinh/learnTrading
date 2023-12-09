@@ -7,8 +7,8 @@ function App() {
       <div className="App">
         <ResponsiveAppBar />
         <Routes>
-          <Route path="/" element={<h1>Hello this is home</h1>} />
-          <Route path="/quiz" element={<h1>Hello this is quiz</h1>} />
+          <Route path="/learnTrading/" element={<h1>Hello this is home</h1>} />
+          <Route path="/learnTrading/quiz" element={<h1>Hello this is quiz</h1>} />
         </Routes>
       </div>
     </Router>
