@@ -71,6 +71,24 @@
         "type": "Bullish",
         "desc": "The Rising Three Methods is a bullish candlestick pattern that is used to predict the continuation of the current uptrend. As you can see, the trend has been advancing but there are three negative days in a row. However, notice the trading range of the negative days never trades below the large positive candle to the left. This indicates the advance will likely continue. Another way to look at this formation is that the stock is taking a rest, or a breather, so to speak. Just a slight pullback before it marches higher.",
         "img": "./images/Rising-Three.png"
+      },
+      {
+        "name": "The Falling Three Method",
+        "type": "Bearish",
+        "desc": "The Falling Three Methods is pretty much the opposite of the Rising Three Methods. It’s a bearish candlestick pattern that tells us the current downtrend will probably continue. As I said previously, stock prices never move in a straight line. In this case, if the primary trend is down, then any bounce in the stock price is usually going to be met with more selling.",
+        "img": "./images/Falling-Three.png"
+      },
+      {
+        "name": "The Bearish Abandoned Baby",
+        "type": "Bearish",
+        "desc": "The Bearish Abandoned Baby is a candlestick pattern that usually tells us a reversal in the current uptrend is on its way. First of all, the previous advance is eclipsed by a DOJI. That in itself is our first signal, but the confirmation comes the next day with a bearish engulfing candle. When you look at an advance in a stock’s price while viewing a chart and see the DOJI and then see heavy selling the following day that should be enough to get your attention.",
+        "img": "./images/Bearish-Baby.png"
+      },
+      {
+        "name": "The Bullish Abandoned Baby",
+        "type": "Bullish",
+        "desc": "The Bullish Abandoned Baby is the mirror image of the Bearish counterpart. And once again, the DOJI is the first sign of change. It appears at the bottom, after a decline, telling us the buyers and sellers are virtually equal. The confirmation of this pattern is the positive candle the very next day.",
+        "img": "./images/Bullish-Baby.png"
       }
     ]
 }
