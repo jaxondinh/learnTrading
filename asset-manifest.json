@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learnTrading/static/css/main.9311fdcf.css",
-    "main.js": "/learnTrading/static/js/main.4c9f4af3.js",
+    "main.js": "/learnTrading/static/js/main.f8092b80.js",
     "static/js/787.abd9bb8e.chunk.js": "/learnTrading/static/js/787.abd9bb8e.chunk.js",
     "static/media/Tri.png": "/learnTrading/static/media/Tri.3732c34b6c2650105596.png",
     "static/media/Bullish-Baby.png": "/learnTrading/static/media/Bullish-Baby.ff5db1f64e9f684b1b94.png",
@@ -16,11 +16,11 @@
     "static/media/Shooting-Star.png": "/learnTrading/static/media/Shooting-Star.c5d473dacec677802291.png",
     "index.html": "/learnTrading/index.html",
     "main.9311fdcf.css.map": "/learnTrading/static/css/main.9311fdcf.css.map",
-    "main.4c9f4af3.js.map": "/learnTrading/static/js/main.4c9f4af3.js.map",
+    "main.f8092b80.js.map": "/learnTrading/static/js/main.f8092b80.js.map",
     "787.abd9bb8e.chunk.js.map": "/learnTrading/static/js/787.abd9bb8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9311fdcf.css",
-    "static/js/main.4c9f4af3.js"
+    "static/js/main.f8092b80.js"
   ]
 }
