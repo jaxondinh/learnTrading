@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Card, CardMedia, Typography, Button, FormControl, InputLabel, Select, MenuItem } from '@mui/material';
 import database from './database.json';
 import { imageMap } from './imageMapping.js';
+import CandleCard from './CandleCard.js';
 
 const Quiz = () => {
     const [currentCandle, setCurrentCandle] = useState(null);
@@ -40,7 +41,7 @@ const Quiz = () => {
         return database.candles[randomIndex];
     };
     const showHelp = () => {
-        setHelpNeeded(true);
+        setHelpNeeded(!helpNeeded);
     }
     return (
         <div>
@@ -81,6 +82,9 @@ const Quiz = () => {
                         <Typography>
                             {isCorrect ? '✅ Correct! ✅' : '❌ Incorrect. Try again! ❌'}
                         </Typography>
+                    )}
+                    {helpNeeded !== null && helpNeeded === true && (
+                        <CandleCard candle={currentCandle} />
                     )}
                 </Card>
             )}
