@@ -29,6 +29,30 @@
         "type": "Neutral",
         "desc": "The Spinning Top The Spinning Top is a candlestick formation where the real body is small despite a wide range of price movement throughout the trading day. This candle is often regarded as neutral and used to signal indecision about the future direction of the stock’s price. Most traders look at it as simply a ho-hum day and wait to see what the next day brings. The following day or two usually confirms if a reversal in trend is happening. Confirmation the following day should indicate whether the advance will continue or a decline will ensue. In the above case, the confirmation was a negative candle the following day certainly indicating a change in trend.",
         "img": "./images/Spinning-Top.png"
+      },
+      {
+        "name": "The Tri Star",
+        "type": "Reversal",
+        "desc": "Formations The TRI Star The Tri-Star is another type of candlestick pattern that signals a reversal in the current trend. This pattern is formed when three consecutive DOJI candlesticks appear after the stock has experienced an advance in price.",
+        "img": "./images/Tri.png"
+      },
+      {
+        "name": "The Bearish Harami",
+        "type": "Bearish",
+        "desc": "The Bearish Harami The Bearish Harami is a pattern that forms at the top after an advance. It is indicated by a large dark candlestick that forms on a negative trading day signaling a change may be in store. Then it is followed by a much smaller candlestick with a body that is located within the vertical range of the larger candle's body. Such a pattern is an indication that the previous upward trend is coming to an end. When you think about it, the lower close of the Bearish candle is an early warning sign. When this candle forms after an advance, you know the sellers have stepped in. Even before the next candle forms you should be on high alert if you are holding this stock. Then when the next candle is formed showing the price cannot penetrate the upper area of the previous candle, this sometimes indicates a top has been reached and often times reverse in direction will soon take place.",
+        "img": "./images/Bearish-Harami.png"
+      },
+      {
+        "name": "The Bullish Harami",
+        "type": "Bullish",
+        "desc": "The Bullish Harami pattern may look very close to the same as the Bearish Harami, but it forms at the bottom after a decline in the stock’s price. The Bullish Harami is a candlestick chart pattern in which a large candlestick is followed by a smaller candlestick whose body is located within the vertical range of the larger body candle on the previous day. In terms of candlestick colors, the bullish harami is a downtrend of negative- colored candlesticks engulfing a small positive (white) candlestick, giving a sign of a reversal of the downward trend.",
+        "img": "./images/Bullish-Harami.png"
+      },
+      {
+        "name": "The Harami Cross",
+        "type": "Reversal",
+        "desc": "The Harami Cross The Harami Cross is like the previous Harami formations except the small body candle is a DOJI. This indicates that the previous trend is about to reverse.",
+        "img": "./images/Harami-Cross.png"
       }
     ]
 }

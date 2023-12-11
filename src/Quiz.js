@@ -1,24 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Card, CardMedia, Typography, Button, FormControl, InputLabel, Select, MenuItem } from '@mui/material';
 import database from './database.json';
-import DojiImage from './images/Doji.png';
-import ShootingStarImage from './images/Shooting-Star.png';
-import HammerImage from './images/Hammer.png';
-import HangingManImage from './images/Hanging-Man.png';
-import SpinningTopImage from './images/Spinning-Top.png';
+import { imageMap } from './imageMapping.js';
 
 const Quiz = () => {
     const [currentCandle, setCurrentCandle] = useState(null);
     const [selectedName, setSelectedName] = useState('');
     const [selectedType, setSelectedType] = useState('');
     const [isCorrect, setIsCorrect] = useState(null);
-    const imageMap = {
-        "Doji": DojiImage,
-        "The Shooting Star": ShootingStarImage,
-        "The Hammer": HammerImage,
-        "The Hanging Man": HangingManImage,
-        "The Spinning Top": SpinningTopImage,
-      };
     useEffect(() => {
         const selectRandomCandle = () => {
             const randomIndex = Math.floor(Math.random() * database.candles.length);
@@ -73,6 +62,7 @@ const Quiz = () => {
                             <MenuItem value="Bullish">Bullish</MenuItem>
                             <MenuItem value="Bearish">Bearish</MenuItem>
                             <MenuItem value="Neutral">Neutral</MenuItem>
+                            <MenuItem value="Reversal">Reversal</MenuItem>
                         </Select>
                     </FormControl>
                     <Button variant="contained" onClick={checkAnswer}>Check Answer</Button>
