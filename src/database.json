@@ -89,6 +89,18 @@
         "type": "Bullish",
         "desc": "The Bullish Abandoned Baby is the mirror image of the Bearish counterpart. And once again, the DOJI is the first sign of change. It appears at the bottom, after a decline, telling us the buyers and sellers are virtually equal. The confirmation of this pattern is the positive candle the very next day.",
         "img": "./images/Bullish-Baby.png"
+      },
+      {
+        "name": "Three Black Crows",
+        "type": "Bearish",
+        "desc": "More Formations Three Black Crows This pattern consists of three consecutive long-bodied, negative, candlesticks that have closed lower than the previous day with each session's open occurring within the body of the previous candle. This is a scary sight if you are holding a stock and see this pattern form. Selling is heavy, and not for just one day. Further decline is almost certain. There is normally some serious selling affiliated when the Crows are formed. Furthermore, a large bearish engulfing candle should always be of grave concern even if it is not associated with other similar candles such as in the formation above. One large black candle should be enough to get your full attention, especially after an uptrend.",
+        "img": "./images/Crows.png"
+      },
+      {
+        "name": "Three White Soldiers",
+        "type": "Bullish",
+        "desc": "The Three White Soldiers is obviously a bullish candlestick pattern. This pattern consists of three consecutive long-bodied positive candlesticks that have closed higher than the previous day, with each session's open occurring within the body of the previous candle.",
+        "img": "./images/Soldiers.png"
       }
     ]
 }

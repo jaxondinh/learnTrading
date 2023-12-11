@@ -13,6 +13,8 @@ import RisingThreeImage from './images/Rising-Three.png';
 import FallingThreeImage from './images/Falling-Three.png';
 import BearishBabyImage from './images/Bearish-Baby.png';
 import BullishBabyImage from './images/Bullish-Baby.png';
+import CrowImage from './images/Crows.png';
+import SoldiersImage from './images/Soldiers.png';
 export const imageMap = {
     "Doji": DojiImage,
     "The Shooting Star": ShootingStarImage,
@@ -29,4 +31,6 @@ export const imageMap = {
     "The Falling Three Method": FallingThreeImage,
     "The Bearish Abandoned Baby": BearishBabyImage,
     "The Bullish Abandoned Baby": BullishBabyImage,
+    "Three Black Crows": CrowImage,
+    "Three White Soldiers": SoldiersImage,
 };
