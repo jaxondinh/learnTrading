@@ -53,6 +53,24 @@
         "type": "Reversal",
         "desc": "The Harami Cross The Harami Cross is like the previous Harami formations except the small body candle is a DOJI. This indicates that the previous trend is about to reverse.",
         "img": "./images/Harami-Cross.png"
+      },
+      {
+        "name": "The Bullish Engulfing Pattern",
+        "type": "Bullish",
+        "desc": "The Bullish Engulfing Pattern is a chart pattern that forms when a small black candlestick is followed by a large white candlestick that completely eclipses or engulfs the previous day's candlestick. The previous day’s candle can be negative or positive, it really doesn’t matter that much. What matters is the large positive candle is saying the selling may be over. When this pattern forms after a downward trend, a trader sees this as a signal that the decline is ending and a reversal is about to take place. Remember the DOJI? In this case, the small-bodied candle that formed at the bottom of the downtrend could also have been a DOJI. First signaling a reversal, and in the above picture the reversal came the following day with the bullish engulfin",
+        "img": "./images/Bullish-Engulfing.png"
+      },
+      {
+        "name": "The Bearish Engulfing Pattern",
+        "type": "Bearish",
+        "desc": "This is simply the opposite of the Bullish Engulfing pattern. It forms after an advancing trend and signals that a reversal is about to take place. When you see the Bearish Engulfing pattern form after a stock has been trending up, then there is a pretty clear signal that change in direction is in the air.",
+        "img": "./images/Bearish-Engulfing.png"
+      },
+      {
+        "name": "The Rising Three Method",
+        "type": "Bullish",
+        "desc": "The Rising Three Methods is a bullish candlestick pattern that is used to predict the continuation of the current uptrend. As you can see, the trend has been advancing but there are three negative days in a row. However, notice the trading range of the negative days never trades below the large positive candle to the left. This indicates the advance will likely continue. Another way to look at this formation is that the stock is taking a rest, or a breather, so to speak. Just a slight pullback before it marches higher.",
+        "img": "./images/Rising-Three.png"
       }
     ]
 }
