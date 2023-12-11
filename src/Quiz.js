@@ -8,6 +8,7 @@ const Quiz = () => {
     const [selectedName, setSelectedName] = useState('');
     const [selectedType, setSelectedType] = useState('');
     const [isCorrect, setIsCorrect] = useState(null);
+    const [helpNeeded, setHelpNeeded] = useState(false);
     useEffect(() => {
         const selectRandomCandle = () => {
             const randomIndex = Math.floor(Math.random() * database.candles.length);
@@ -35,8 +36,12 @@ const Quiz = () => {
     const selectRandomCandle = () => {
         const randomIndex = Math.floor(Math.random() * database.candles.length);
         setIsCorrect(null);
+        setHelpNeeded(false);
         return database.candles[randomIndex];
     };
+    const showHelp = () => {
+        setHelpNeeded(true);
+    }
     return (
         <div>
             {currentCandle && (
@@ -71,6 +76,7 @@ const Quiz = () => {
                             setSelectedName('');
                             setSelectedType('');
                         }} >Random Candle</Button>
+                    <Button variant="contained" onClick={showHelp}>Help</Button>
                     {isCorrect !== null && (
                         <Typography>
                             {isCorrect ? '✅ Correct! ✅' : '❌ Incorrect. Try again! ❌'}
