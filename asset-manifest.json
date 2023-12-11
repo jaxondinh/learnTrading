@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/learnTrading/static/css/main.9311fdcf.css",
-    "main.js": "/learnTrading/static/js/main.aabc82ba.js",
+    "main.js": "/learnTrading/static/js/main.4c9f4af3.js",
     "static/js/787.abd9bb8e.chunk.js": "/learnTrading/static/js/787.abd9bb8e.chunk.js",
+    "static/media/Tri.png": "/learnTrading/static/media/Tri.3732c34b6c2650105596.png",
+    "static/media/Bullish-Baby.png": "/learnTrading/static/media/Bullish-Baby.ff5db1f64e9f684b1b94.png",
+    "static/media/Rising-Three.png": "/learnTrading/static/media/Rising-Three.6cb52a382062130b62a9.png",
+    "static/media/Bearish-Baby.png": "/learnTrading/static/media/Bearish-Baby.abae0717a4844406553d.png",
+    "static/media/Falling-Three.png": "/learnTrading/static/media/Falling-Three.bc9832d4e75294c2d308.png",
+    "static/media/Harami-Cross.png": "/learnTrading/static/media/Harami-Cross.1e27371503ee5703ffc4.png",
+    "static/media/Bullish-Engulfing.png": "/learnTrading/static/media/Bullish-Engulfing.d40edb453e7ac3606c0d.png",
     "static/media/Hammer.png": "/learnTrading/static/media/Hammer.6a8e0c917f9a10aa1495.png",
     "static/media/Hanging-Man.png": "/learnTrading/static/media/Hanging-Man.2c41f24ad6838d75755a.png",
+    "static/media/Bearish-Engulfing.png": "/learnTrading/static/media/Bearish-Engulfing.fa821d80d8df571e2f2c.png",
     "static/media/Shooting-Star.png": "/learnTrading/static/media/Shooting-Star.c5d473dacec677802291.png",
     "index.html": "/learnTrading/index.html",
     "main.9311fdcf.css.map": "/learnTrading/static/css/main.9311fdcf.css.map",
-    "main.aabc82ba.js.map": "/learnTrading/static/js/main.aabc82ba.js.map",
+    "main.4c9f4af3.js.map": "/learnTrading/static/js/main.4c9f4af3.js.map",
     "787.abd9bb8e.chunk.js.map": "/learnTrading/static/js/787.abd9bb8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9311fdcf.css",
-    "static/js/main.aabc82ba.js"
+    "static/js/main.4c9f4af3.js"
   ]
 }
