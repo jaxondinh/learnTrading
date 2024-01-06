@@ -74,10 +74,11 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 <!-- USAGE EXAMPLES -->
 ## Usage
 learnTrading was made to be used in two different manners:
-1. To present each candle pattern within a display card with it's name, description and type.
+1. To present each candle pattern within a display card with its name, description and type.
 <img src="images/usageImage1.png" alt="usage1">
 
-2. To have a flashcard like function in order to help learn and memorize patterns.
+2. To have a flashcard like functionto help learn and memorize patterns, with feature such as random candle, answer check and help.
+
 
 
 
