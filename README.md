@@ -78,10 +78,11 @@ learnTrading was made to be used in two different manners:
 <img src="images/usageImage1.png" alt="usage1">
 
 2. To have a flashcard like functionto help learn and memorize patterns, with feature such as random candle, answer check and help.
+![](images/randomFeature.gif)
 
+![](images/answerCheck.gif)
 
-
-
+![](images/help.gif)
 <!-- LICENSE -->
 ## License
 
