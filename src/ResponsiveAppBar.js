@@ -44,7 +44,7 @@ function ResponsiveAppBar() {
               textDecoration: 'none',
             }}
           >
-            JackyLLC
+            learnTrading
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
