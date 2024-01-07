@@ -54,7 +54,7 @@ learnTrading is a React App created to display the candle pattern information ta
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-This project requires npm, instructions can be found:
+This project requires Node.js & npm, instructions can be found:
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ### Installation
